@@ -1,6 +1,8 @@
 # Vigenere-Chipper
 
-| **Nama**        | Ilham Maulana CAkra Dwi Noto |
+| #               | Biodata                      |
+| --------------- | ---------------------------- |
+| **Nama**        | Ilham Maulana Cakra Dwi Noto |
 | **NIM**         | 312110027                    |
 | **Kelas**       | TI.21.A.1                    |
 | **Mata Kuliah** | Kriptografi                  |
